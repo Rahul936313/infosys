@@ -1,3 +1,5 @@
+#live at https://infosys-2027.vercel.app/
+
 # Infosys 2027 Prep OS
 
 A Vercel-ready Next.js dashboard for systematic Infosys 2027 placement preparation.
